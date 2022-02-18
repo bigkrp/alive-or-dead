@@ -1,0 +1,5 @@
+.Grid {
+    border: 2px solid brown;
+    margin: auto;
+    display: grid;
+}
