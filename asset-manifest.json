@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alive-or-dead/static/css/main.54f7fcde.css",
+    "main.js": "/alive-or-dead/static/js/main.af54f3c6.js",
+    "index.html": "/alive-or-dead/index.html",
+    "main.54f7fcde.css.map": "/alive-or-dead/static/css/main.54f7fcde.css.map",
+    "main.af54f3c6.js.map": "/alive-or-dead/static/js/main.af54f3c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f7fcde.css",
+    "static/js/main.af54f3c6.js"
+  ]
+}
